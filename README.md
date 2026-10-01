@@ -1,13 +1,7 @@
-# 🖥️ Auditoria Básica de Sistema em Python
+# 🚀 Windows 11 Advanced Optimizer, Diagnostics & Cleaner
 
-Este projeto consiste num script em Python desenvolvido para coletar e estruturar métricas básicas de ambiente e sistema operacional (como SO, versão, arquitetura, IP local e utilizador ativo), exportando os dados automaticamente num relatório em formato JSON.
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%2011-0078D4)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-## 🚀 Tecnologias e Módulos
-- **Linguagem:** Python 3.12+
-- **Módulos padrão:** `json`, `platform`, `socket`, `getpass`, `os`
-
-## 📋 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/hiegohuta-wq/auditoria-sistema-python.git](https://github.com/hiegohuta-wq/auditoria-sistema-python.git)
+Uma solução leve e automatizada desenvolvida em Python para auditoria de armazenamento, limpeza de arquivos temporários, diagnósticos de rede e otimização de disco no Windows 11.
